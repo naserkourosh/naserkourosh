@@ -2,7 +2,7 @@
 
 
 <!-- **naserkourosh/naserkourosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-[<img src='developer.gif' width=600 />]
+<img src='developer.gif' width=100% />
 
 Here are some ideas to get you started:
 
