@@ -1,8 +1,8 @@
 ### Hi there, I am Naser 👋
 
-<!--
+
 **naserkourosh/naserkourosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[<img src='developer' width=400 />]
+[<img src='developer.gif' width=400 />]
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkdin , instagram , Email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
