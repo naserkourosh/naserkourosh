@@ -1,8 +1,8 @@
 ### Hi there, I am Naser 👋
 
 
-**naserkourosh/naserkourosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[<img src='developer.gif' width=400 />]
+<!-- **naserkourosh/naserkourosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+[<img src='developer.gif' width=600 />]
 
 Here are some ideas to get you started:
 
